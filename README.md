@@ -21,5 +21,4 @@ Este é um aplicativo de consulta de CEPs desenvolvido em Kotlin para Android. O
 
 Se você tiver alguma dúvida ou sugestão, entre em contato:
 
-- Email: [seuemail@example.com](mailto:seuemail@example.com)
 - GitHub: [94lucas](https://github.com/94lucas)
