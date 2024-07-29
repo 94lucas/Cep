@@ -69,6 +69,7 @@ dependencies {
     // Dependências do Retrofit
     implementation (libs.retrofit)
     implementation (libs.converter.gson)
+    implementation(kotlin("script-runtime"))
 
 }
 
